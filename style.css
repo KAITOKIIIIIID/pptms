@@ -1,0 +1,14 @@
+
+
+.sidebar .nav-link {
+    font-weight: bold; /* Keeps text bold */
+    font-size: 1.1rem; /* Increases font size */
+    color: rgb(1, 92, 211); /* Keeps the links visible against the transparent background */
+}
+.sidebar .nav-link:hover {
+    text-decoration: underline; /* Optional: adds hover effect */
+}
+canvas {
+    max-width: 100%;
+    max-height: 300px;
+}
